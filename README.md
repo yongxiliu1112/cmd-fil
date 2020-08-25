@@ -54,7 +54,7 @@ lotus-miner sectors update-state --really-do-it 0 Removing
 
 lotus wallet export <addr> > /somewhere/safe/wallet.keyinfo
 	
-lotus-shed keyinfo info /somewhere/safe/wallet.keyinfo
+./lotus-shed keyinfo info /somewhere/safe/wallet.keyinfo
 
 lotus wallet import /somewhere/safe/wallet.keyinfo
 
