@@ -52,7 +52,7 @@ lotus-miner sectors update-state --really-do-it 0 Removing
 
 钱包导入导出
 
-lotus wallet export <addr> > /somewhere/safe/wallet.keyinfo
+lotus wallet export addr > /somewhere/safe/wallet.keyinfo
 	
 ./lotus-shed keyinfo info /somewhere/safe/wallet.keyinfo
 
