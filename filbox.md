@@ -18,8 +18,8 @@
 
 
 ## (3) What does your application/UI do?
+![filbox](https://oss.faycz.com/filbox/1601031552437.jpg)
 
-<pic>
 
 ‒ Users can upload their files through the Filbox App and they will be able to choose from a list of eligible miners to store their files. Of couse, users get the choice of picking themselves as the miner as well.
 
