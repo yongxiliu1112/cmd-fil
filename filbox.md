@@ -2,7 +2,9 @@
 Please tell us your project's name and the Filecoin Slack handles for your teammates.
 
 ‒ Project Name: Filbox
+
 ‒ Slack Channels: can't create right now (no permission?).
+
 ‒ Team Slack handles: yongxi.liu, kimmy.w, lea, felixzhou 
 
 ## (1) Brief Project Description
@@ -22,7 +24,9 @@ Give us a brief description of what your application/UI does and how users are i
 
 
 ‒ Users can upload their files through the Filbox App and they will be able to choose from a list of eligible miners to store their files. Of couse, users get the choice of picking themselves as the miner as well.
+
 ‒ For users who are concerned with data privacy, we provide the encryption function to encrypt and decrypt private files.
+
 ‒ In the future, Filbox can take the role of a content sharing platform as well - users can also sell their original files in Filbox to get more Fils.
 
 ## (4) If your project is using a curated dataset, which one are you using?
@@ -63,6 +67,7 @@ Share some more information about the data retrieval plans for your application?
 Who do you anticipate will use your project/dataset?
 
 ‒ Anyone who wants to use decentralised storage is our potential user. 
+
 ‒ Those who want to provide valuable data and earn Fils can also join us in the project.
 
 ## (12) Do you have any users already or plans to acquire users soon?
@@ -76,5 +81,7 @@ We'd love to know what you're most worried about so we can help as much as possi
 We will be keen to know:
 
 ‒ How to improve user experience, especially how to help new users to understand decentralised storage and make the most of it.
+
 ‒ Time constraints - what level of readiness do you expect the projects to be by the end of Slingshot.
+
 ‒ And of course, how to acquire users in a short time frame.
