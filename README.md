@@ -1,6 +1,6 @@
 # cmd-fil
 一些fil命令
-lotus client query-ask
+## lotus client query-ask
 
 curl httpbin.org/ip
 
