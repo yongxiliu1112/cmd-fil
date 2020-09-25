@@ -69,7 +69,6 @@
 ‒ Yes, we have already had some early users from some of our existing projects. However, Filbox is still under development and we expect to gain more users as the project matures. 
 
 ## (13) What challenges do you anticipate with this project?
-We'd love to know what you're most worried about so we can help as much as possible. Let us know what you anticipate to be the biggest challenges with this project!
 
 We will be keen to know:
 
