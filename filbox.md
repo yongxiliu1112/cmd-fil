@@ -11,7 +11,7 @@
 ‒ Encrypt your file and choose your storage miner! Filbox is an open source file storage encryption application that is designed to enable millions of users to easily encrypt their files and upload it to the distributed network. Powered by IPFS, Filbox adds an extra layer of convenience by providing the choices of storage miners to the end users so that users can choose the intended storage miners based on their preferences. 
 
 ## (2) Link to Project UI
-
+  
 
 ‒ Filbox Demo(https://filbox.keystore.com)
 
