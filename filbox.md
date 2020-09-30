@@ -81,3 +81,17 @@ We will be keen to know:
 ‒ Time constraints - what level of readiness do you expect the projects to be by the end of Slingshot.
 
 ‒ And of course, how to acquire users in a short time frame.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
